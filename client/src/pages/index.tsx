@@ -1,12 +1,11 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
- 
+
 type Props = {
-  title: string;
-};
+  title: string
+}
 
-
-export default function Home({title = "React avançado"} : Props) {
+export default function Home({ title = 'React avançado' }: Props) {
   return (
     <div className={styles.container}>
       <Head>
@@ -15,9 +14,7 @@ export default function Home({title = "React avançado"} : Props) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Bem vindo ao nextjs
-        </h1>
+        <h1 className={styles.title}>Bem vindo ao nextjs</h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
@@ -26,7 +23,7 @@ export default function Home({title = "React avançado"} : Props) {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
+            <h3>Documentation </h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
