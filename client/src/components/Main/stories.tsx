@@ -14,7 +14,7 @@ export const Basic: Story = () => (
     title={text('Title', 'React Avançado')}
     description={text(
       'Description',
-      'TypeScript, ReactJS, NextJS e Styled Components'	  
+      'TypeScript, ReactJS, NextJS e Styled Components'
     )}
   />
 )
