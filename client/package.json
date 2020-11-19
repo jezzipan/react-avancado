@@ -26,6 +26,7 @@
   "dependencies": {
     "eslint-config-react-app-tsc": "^5.2.1-rc.1",
     "next": "10.0.1",
+    "next-pwa": "^3.1.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "^5.2.1"
