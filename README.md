@@ -1,4 +1,4 @@
-#  curso-react
+![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 React Avançado curso :dizzy: 
 
 
